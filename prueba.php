@@ -12,6 +12,8 @@
         $c = "ejemplos de variables PHP";
         // impresión
         echo $a . "<br>" . $b . "<br>" . $c;
+
+        echo "prueba";
     ?>
 </body>
 </html>
